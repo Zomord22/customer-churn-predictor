@@ -16,7 +16,7 @@ An AI-powered web application that predicts customer churn risk and provides act
 
 ## 🎯 Live Demo
 
-[Try the live application on Hugging Face](https://huggingface.co/spaces/yourusername/customer-churn-predictor)
+[Try the live application on Hugging Face](https://huggingface.co/spaces/ZuSofEng99/customer-churn-predictor)
 
 ## 💻 Quick Start
 
